@@ -193,8 +193,8 @@ export const projects: ProjectType[] = [
   {
     name: "Portfolio",
     desc: "Developed a software developer portfolio template using React.js, Next.js, and Bootstrap to showcase projects and skills. The template features sections for work, skills, and personal information, providing a professional platform for developers to display their expertise.",
-    github: "https://github.com/1hanzla100/developer-portfolio",
-    link: "https://developer-portfolio-1hanzla100.vercel.app/",
+    github: "https://github.com/Long182k/Porfolio",
+    link: "https://drake-porfolio.vercel.app/",
   },
   {
     name: "The Online Hospital Platform",
