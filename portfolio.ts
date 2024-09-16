@@ -184,7 +184,7 @@ export const experience: ExperienceType[] = [
     role: "Software Engineer",
     company: "DGM JSC CO., LTD",
     companyLogo: "/img/icons/common/dgm.png",
-    date: "Jan 2021 - Aug 2022",
+    date: "Jan 2021 - Aug 2021",
     desc: "Skilled in React, Node.js (NestJS), and MySQL for developing REST APIs and integrating Lidar machine data. Collaborated with marketing and project teams to develop and enhance features based on feedback. Built admin websites for comprehensive data management.",
   },
 ];
