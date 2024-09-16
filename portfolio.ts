@@ -170,7 +170,7 @@ export const experience: ExperienceType[] = [
     role: "Software Engineer",
     company: "ZTO Logistic Singapore",
     companyLogo: "/img/icons/common/zto.webp",
-    date: "April 2023 - Present",
+    date: "April 2023 - Aug 2024",
     desc: "Experienced in developing features with React, Node.js, Prisma, and microservices architecture, focusing on WMS/OMS systems and task scheduling with Redis, RabbitMQ, and Cron Jobs. Skilled in creating APIs for third-party integration and optimizing customer interactions. Contributed to Agile Scrum processes and developed mobile app features for package scanning and transfers.",
   },
   {
@@ -184,7 +184,7 @@ export const experience: ExperienceType[] = [
     role: "Software Engineer",
     company: "DGM JSC CO., LTD",
     companyLogo: "/img/icons/common/dgm.png",
-    date: "Jan 2021 - Dec 2022",
+    date: "Jan 2021 - Aug 2022",
     desc: "Skilled in React, Node.js (NestJS), and MySQL for developing REST APIs and integrating Lidar machine data. Collaborated with marketing and project teams to develop and enhance features based on feedback. Built admin websites for comprehensive data management.",
   },
 ];
