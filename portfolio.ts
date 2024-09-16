@@ -87,6 +87,10 @@ export const skillsSection: SkillsSectionType = {
           iconifyTag: "logos:postgresql",
         },
         {
+          skillName: "MongoDB",
+          iconifyTag: "vscode-icons:file-type-mongo",
+        },
+        {
           skillName: "Redis",
           iconifyTag: "logos:redis",
         },
